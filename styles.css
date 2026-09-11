@@ -63,9 +63,8 @@ html, body {
   margin: 0;
   color: #fff;
   font-size: clamp(2.5rem, 8vw, 6rem);
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 0.05em;
   text-shadow: 0 2px 24px rgba(0, 0, 0, 0.6);
 }
 
@@ -80,9 +79,9 @@ html, body {
 .social-links a {
   color: #fff;
   text-decoration: none;
-  font-size: clamp(0.9rem, 1.6vw, 1.15rem);
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
+  font-size: clamp(1rem, 1.8vw, 1.25rem);
+  font-style: italic;
+  letter-spacing: 0.02em;
   padding-bottom: 4px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.4);
   transition: border-color 0.2s ease, opacity 0.2s ease;
